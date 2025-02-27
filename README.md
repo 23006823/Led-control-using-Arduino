@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+#NAME: M GAYATHIRI ROSHINI
+#REG NO: 212223110012
+
+# EXP NO : 01 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +61,16 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+   ![image](https://github.com/user-attachments/assets/5c0964c1-d92a-4f05-a90d-14c647e866a6)
 
 ## PROGRAM
+   ![image](https://github.com/user-attachments/assets/3f671bc7-14b0-4860-a8a9-617b15b0dee9)
 
 ## OUTPUT
+   ![image](https://github.com/user-attachments/assets/26a87024-07c4-4acd-b5ce-a1dbd2426599)
+
+   ![image](https://github.com/user-attachments/assets/5811d1e1-49f3-4636-8fd2-5f6d93a68825)
+
 
 ## RESULT
+Thus design and implement a system for LED control using an Arduino microcontroller and a push button.
