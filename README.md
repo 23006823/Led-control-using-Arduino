@@ -1,5 +1,5 @@
-#NAME: M GAYATHIRI ROSHINI
-#REG NO: 212223110012
+##NAME: M GAYATHIRI ROSHINI
+##REG NO: 212223110012
 
 # EXP NO : 01 Led control using Arduino
 
@@ -67,8 +67,10 @@ Weighing Machines </br>
    ![image](https://github.com/user-attachments/assets/3f671bc7-14b0-4860-a8a9-617b15b0dee9)
 
 ## OUTPUT
+   ## PUSH BUTTON OFF:
    ![image](https://github.com/user-attachments/assets/26a87024-07c4-4acd-b5ce-a1dbd2426599)
-
+   
+   ## PUSH BUTTON ON:
    ![image](https://github.com/user-attachments/assets/5811d1e1-49f3-4636-8fd2-5f6d93a68825)
 
 
